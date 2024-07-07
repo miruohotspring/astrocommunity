@@ -1,5 +1,24 @@
 # Changelog
 
+## [11.1.0](https://github.com/AstroNvim/astrocommunity/compare/v11.0.0...v11.1.0) (2024-07-07)
+
+
+### Features
+
+* **icon:** Add mini.icons ([#1086](https://github.com/AstroNvim/astrocommunity/issues/1086)) ([34c3dec](https://github.com/AstroNvim/astrocommunity/commit/34c3decc690ef02d412d8bc62faec7e563489f56))
+* **lsp:** Add nvim-lsp-endhints ([#1087](https://github.com/AstroNvim/astrocommunity/issues/1087)) ([67d6d76](https://github.com/AstroNvim/astrocommunity/commit/67d6d761329a66b0361a09575a3bff46db4f238f))
+* **vscode-icons:** add `mini.icons` support ([ac8e778](https://github.com/AstroNvim/astrocommunity/commit/ac8e778d2bf4ec15b8df6018cc61966cc5a3d7cb))
+
+
+### Bug Fixes
+
+* **mini-icons:** Cosmetic typo ([0219171](https://github.com/AstroNvim/astrocommunity/commit/02191711f44f969f9c865f1d8a9638fabc5491aa))
+* **mini-icons:** respect `icons_enabled` variable ([524acd9](https://github.com/AstroNvim/astrocommunity/commit/524acd9c97cfe2d8731ca9667926fc1c2784c070))
+* **oil-nvim:** pass `bufnr` to `get_current_dir` ([63c3584](https://github.com/AstroNvim/astrocommunity/commit/63c358460d648b59d6a67682812250ba87943322))
+* **smartcolumn-nvim:** change mini.starter filetype from starter to ministarter ([#1084](https://github.com/AstroNvim/astrocommunity/issues/1084)) ([56b6894](https://github.com/AstroNvim/astrocommunity/commit/56b68945d66f3d6b782087e6c1ac329e7b46a21a))
+* **smartcolumn-nvim:** change mini.starter filetype to ministarter ([56b6894](https://github.com/AstroNvim/astrocommunity/commit/56b68945d66f3d6b782087e6c1ac329e7b46a21a))
+* **vscode-icons:** make `lspkind` optional ([bc38755](https://github.com/AstroNvim/astrocommunity/commit/bc38755e8d02f519b15b69d282e6abb49b13cad6))
+
 ## [11.0.0](https://github.com/AstroNvim/astrocommunity/compare/v10.0.0...v11.0.0) (2024-07-02)
 
 
